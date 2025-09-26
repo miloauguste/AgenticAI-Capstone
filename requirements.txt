@@ -8,3 +8,4 @@ requests>=2.31.0
 crewai==0.201.1
 langchain-community>=0.0.20
 langchain-google-genai>=0.0.6
+matplotlib>=3.5.0
