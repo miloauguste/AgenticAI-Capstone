@@ -1,0 +1,53 @@
+{
+  "classification_thresholds": {
+    "bug_threshold": 0.7,
+    "feature_threshold": 0.6,
+    "praise_threshold": 0.6,
+    "complaint_threshold": 0.6,
+    "spam_threshold": 0.8,
+    "minimum_confidence": 0.5
+  },
+  "priority_weights": {
+    "bug_severity_weight": 0.3,
+    "user_impact_weight": 0.3,
+    "technical_complexity_weight": 0.2,
+    "business_priority_weight": 0.1,
+    "bug_priority_mapping": {
+      "Critical": "Critical",
+      "High": "High",
+      "Medium": "Medium",
+      "Low": "Low"
+    },
+    "feature_priority_mapping": {
+      "High Impact": "High",
+      "Medium Impact": "Medium",
+      "Low Impact": "Low"
+    }
+  },
+  "quality_thresholds": {
+    "minimum_quality_score": 70.0,
+    "auto_approve_threshold": 90.0,
+    "manual_review_threshold": 60.0,
+    "reject_threshold": 40.0
+  },
+  "agent_settings": {
+    "enable_bug_analysis": true,
+    "enable_feature_extraction": true,
+    "enable_quality_review": true,
+    "enable_technical_extraction": true,
+    "classification_timeout": 30,
+    "bug_analysis_timeout": 45,
+    "feature_extraction_timeout": 30,
+    "quality_review_timeout": 20
+  },
+  "processing_rules": {
+    "skip_low_confidence_items": false,
+    "auto_categorize_spam": true,
+    "require_manual_review_for_critical": true,
+    "batch_size": 10,
+    "max_retries": 3
+  },
+  "version": "1.0.0",
+  "last_updated": "2025-09-26T10:01:27.198576",
+  "created_by": "system_default"
+}

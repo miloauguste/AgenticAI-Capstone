@@ -1,0 +1,52 @@
+source_id,source_type,category,confidence,processing_time,status
+REV001,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV002,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV003,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV004,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV005,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV006,app_store_review,Bug,50.0,2025-09-26T10:32:52.676948,Processed
+REV007,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV008,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV009,app_store_review,Bug,50.0,2025-09-26T10:32:52.676948,Processed
+REV010,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV011,app_store_review,Feature Request,100.0,2025-09-26T10:32:52.676948,Processed
+REV012,app_store_review,Praise,66.66666666666666,2025-09-26T10:32:52.676948,Processed
+REV013,app_store_review,Feature Request,100.0,2025-09-26T10:32:52.676948,Processed
+REV014,app_store_review,Feature Request,100.0,2025-09-26T10:32:52.676948,Processed
+REV015,app_store_review,Feature Request,66.66666666666666,2025-09-26T10:32:52.676948,Processed
+REV016,app_store_review,Feature Request,100.0,2025-09-26T10:32:52.676948,Processed
+REV017,app_store_review,Feature Request,66.66666666666666,2025-09-26T10:32:52.676948,Processed
+REV018,app_store_review,Feature Request,50.0,2025-09-26T10:32:52.676948,Processed
+REV019,app_store_review,Feature Request,50.0,2025-09-26T10:32:52.676948,Processed
+REV020,app_store_review,Feature Request,100.0,2025-09-26T10:32:52.676948,Processed
+REV021,app_store_review,Praise,66.66666666666666,2025-09-26T10:32:52.676948,Processed
+REV022,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV023,app_store_review,Bug,100.0,2025-09-26T10:32:52.676948,Processed
+REV024,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV025,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV026,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV027,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV028,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV029,app_store_review,Praise,100.0,2025-09-26T10:32:52.676948,Processed
+REV030,app_store_review,Feature Request,50.0,2025-09-26T10:32:52.676948,Processed
+REV031,app_store_review,Complaint,50.0,2025-09-26T10:32:52.676948,Processed
+REV032,app_store_review,Bug,50.0,2025-09-26T10:32:52.676948,Processed
+REV033,app_store_review,Complaint,100.0,2025-09-26T10:32:52.676948,Processed
+REV034,app_store_review,Complaint,100.0,2025-09-26T10:32:52.676948,Processed
+REV035,app_store_review,Feature Request,50.0,2025-09-26T10:32:52.676948,Processed
+REV036,app_store_review,Complaint,100.0,2025-09-26T10:32:52.676948,Processed
+REV037,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV038,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV039,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV040,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV041,app_store_review,Spam,75.0,2025-09-26T10:32:52.676948,Processed
+REV042,app_store_review,Spam,100.0,2025-09-26T10:32:52.676948,Processed
+REV043,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV044,app_store_review,Feature Request,50.0,2025-09-26T10:32:52.676948,Processed
+REV045,app_store_review,Spam,100.0,2025-09-26T10:32:52.676948,Processed
+REV046,app_store_review,Spam,100.0,2025-09-26T10:32:52.676948,Processed
+REV047,app_store_review,Praise,50.0,2025-09-26T10:32:52.676948,Processed
+REV048,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV049,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+REV050,app_store_review,Uncertain,0.0,2025-09-26T10:32:52.676948,Processed
+SESSION_cda3433d,session_summary,Summary,71.43,2025-09-26T10:32:52.683035,Completed 50/70

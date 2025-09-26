@@ -1,0 +1,21 @@
+source_id,source_type,expected_category,actual_category,category_match,expected_priority,actual_priority,priority_match,confidence_score,quality_score
+REV001,app_store_review,Bug,Bug,True,High,High,True,50.0,100
+REV002,app_store_review,Bug,Bug,True,High,High,True,100.0,100
+REV003,app_store_review,Bug,Bug,True,Critical,Critical,True,100.0,100
+REV011,app_store_review,Feature Request,Feature Request,True,Medium,Medium,True,50.0,100
+REV012,app_store_review,Feature Request,Feature Request,True,Medium,Medium,True,66.66666666666666,100
+REV021,app_store_review,Praise,Praise,True,Low,Low,True,100.0,100
+REV022,app_store_review,Praise,Praise,True,Low,Low,True,100.0,100
+REV031,app_store_review,Complaint,Complaint,True,Medium,Medium,True,100.0,100
+REV032,app_store_review,Complaint,Feature Request,False,Medium,Medium,True,66.66666666666666,100
+REV041,app_store_review,Spam,Spam,True,Low,Low,True,66.66666666666666,100
+EMAIL001,support_email,Bug,Bug,True,High,High,True,50.0,100
+EMAIL002,support_email,Bug,Bug,True,Critical,Critical,True,50.0,100
+EMAIL003,support_email,Bug,Bug,True,High,Low,False,100.0,100
+EMAIL004,support_email,Bug,Bug,True,Medium,High,False,100.0,100
+EMAIL005,support_email,Bug,Bug,True,High,High,True,50.0,100
+EMAIL006,support_email,Bug,Bug,True,Medium,High,False,100.0,100
+EMAIL009,support_email,Feature Request,Feature Request,True,Low,Critical,False,50.0,100
+EMAIL010,support_email,Feature Request,Feature Request,True,Medium,Medium,True,50.0,100
+EMAIL011,support_email,Complaint,Feature Request,False,Medium,Medium,True,66.66666666666666,100
+EMAIL020,support_email,Bug,Bug,True,Critical,High,False,50.0,100
